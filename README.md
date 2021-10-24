@@ -7,5 +7,6 @@
 #### I will have to just suffer the grade on this project this time because I have to balance my time very carefully these days as I am spread very thin.
 #### I can assure you my future work will be much better as I will soon have much more time to work on these project.
 
-#### I truly appreciate your understanding on this matter. I apologize that I cannot turn in better work this time.
+#### I truly appreciate your understanding on this matter. I apologize that I cannot turn in a better looking project this week.
+#### Please rest assured that I feel quite confident on the material that this project is designed to convey.
 #### Evan Brannigan
