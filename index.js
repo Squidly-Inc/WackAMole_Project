@@ -1,3 +1,5 @@
+
+function game(){
 let score = 0;
 
 const scoreDisplay = document.getElementById('score');
@@ -16,3 +18,4 @@ gameArea.addEventListener('click', function(clickEvent) {
     scoreDisplay.innerText = score;
   }
 });
+}

@@ -29,3 +29,13 @@ body {
 .mole {
   background-image: url("images/mole.png");
 }
+
+.headerObj {
+  display: flex;
+  justify-content: space-between; 
+  margin-bottom: 10px;
+}
+
+#score {
+  margin:0 155px;
+}

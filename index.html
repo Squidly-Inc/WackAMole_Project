@@ -7,7 +7,11 @@
   <script src="index.js" defer></script>
 </head>
 <body> 
-  <h1 id="score">0</h1>
+  <div class="headerObj">
+    <button type="button" onclick="game()">Start!</button>
+    <h1 id="score">0</h1>
+    <button type="button" onclick="location.reload()">Reset!</button>
+  </div>
   <div id="whack-a-mole">
     <div class="hole"></div>
     <div class="hole"></div>
